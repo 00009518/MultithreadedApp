@@ -1,0 +1,20 @@
+fl1,Paris,_,wait,-
+fl2,Tokyo,_,wait,-
+fl3,London,_,wait,-
+fl4,Sydney,_,wait,-
+fl5,Moscow,_,wait,-
+fl6,Beijing,_,wait,-
+fl7,Amsterdam,_,wait,-
+fl8,Buenos Aires,_,wait,-
+fl9,Dubai,_,wait,-
+fl10,Mumbai,_,wait,-
+fl11,Vancouver,_,wait,-
+fl12,Barcelona,_,wait,-
+fl13,Cape Town,_,wait,-
+fl14,Istanbul,_,wait,-
+fl15,Singapore,_,wait,-
+fl16,Oslo,_,wait,-
+fl17,Zurich,_,wait,-
+fl18,Berlin,_,wait,-
+fl19,Rome,_,wait,-
+fl20,Santiago,_,wait,-

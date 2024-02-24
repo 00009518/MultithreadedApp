@@ -1,0 +1,14 @@
+D:\CP\CP.CW1.9518\API\bin\API.dll.config
+D:\CP\CP.CW1.9518\API\bin\API.dll
+D:\CP\CP.CW1.9518\API\bin\API.pdb
+D:\CP\CP.CW1.9518\API\obj\Debug\API.csproj.AssemblyReference.cache
+D:\CP\CP.CW1.9518\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\CP\CP.CW1.9518\API\obj\Debug\API.dll
+D:\CP\CP.CW1.9518\API\obj\Debug\API.pdb
+C:\Users\user\Desktop\CP.CW1.00009518\CP.CW1.9518\API\bin\API.dll.config
+C:\Users\user\Desktop\CP.CW1.00009518\CP.CW1.9518\API\bin\API.dll
+C:\Users\user\Desktop\CP.CW1.00009518\CP.CW1.9518\API\bin\API.pdb
+C:\Users\user\Desktop\CP.CW1.00009518\CP.CW1.9518\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CP.CW1.00009518\CP.CW1.9518\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CP.CW1.00009518\CP.CW1.9518\API\obj\Debug\API.dll
+C:\Users\user\Desktop\CP.CW1.00009518\CP.CW1.9518\API\obj\Debug\API.pdb

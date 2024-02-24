@@ -1,0 +1,40 @@
+fl4,Sydney,11.04.2023 18:21:05,Takeoff,g4
+fl5,Moscow,11.04.2023 18:21:06,Takeoff,g5
+fl8,Buenos Aires,11.04.2023 18:21:06,Takeoff,g8
+fl6,Beijing,11.04.2023 18:21:06,Takeoff,g6
+fl7,Amsterdam,11.04.2023 18:21:07,Takeoff,g7
+fl9,Dubai,11.04.2023 18:21:07,Takeoff,g9
+fl1,Paris,11.04.2023 18:21:07,Takeoff,g1
+fl3,London,11.04.2023 18:21:07,Takeoff,g3
+fl2,Tokyo,11.04.2023 18:21:07,Takeoff,g2
+fl10,Mumbai,11.04.2023 18:21:07,Takeoff,g10
+fl11,Vancouver,11.04.2023 18:21:11,Takeoff,g4
+fl16,Oslo,11.04.2023 18:21:11,Takeoff,g9
+fl15,Singapore,11.04.2023 18:21:11,Takeoff,g7
+fl14,Istanbul,11.04.2023 18:21:13,Takeoff,g6
+fl19,Rome,11.04.2023 18:21:13,Takeoff,g2
+fl13,Cape Town,11.04.2023 18:21:13,Takeoff,g8
+fl12,Barcelona,11.04.2023 18:21:13,Takeoff,g5
+fl20,Santiago,11.04.2023 18:21:13,Takeoff,g10
+fl17,Zurich,11.04.2023 18:21:15,Takeoff,g1
+fl18,Berlin,11.04.2023 18:21:15,Takeoff,g3
+fl10,Mumbai,2/24/2024 10:42:47 PM,Takeoff,g9
+fl9,Dubai,2/24/2024 10:42:47 PM,Takeoff,g8
+fl6,Beijing,2/24/2024 10:42:47 PM,Takeoff,g5
+fl8,Buenos Aires,2/24/2024 10:42:47 PM,Takeoff,g7
+fl7,Amsterdam,2/24/2024 10:42:47 PM,Takeoff,g6
+fl4,Sydney,2/24/2024 10:42:49 PM,Takeoff,g3
+fl5,Moscow,2/24/2024 10:42:49 PM,Takeoff,g4
+fl2,Tokyo,2/24/2024 10:42:49 PM,Takeoff,g1
+fl1,Paris,2/24/2024 10:42:49 PM,Takeoff,g1
+fl3,London,2/24/2024 10:42:49 PM,Takeoff,g2
+fl15,Singapore,2/24/2024 10:42:52 PM,Takeoff,g6
+fl14,Istanbul,2/24/2024 10:42:52 PM,Takeoff,g7
+fl11,Vancouver,2/24/2024 10:42:53 PM,Takeoff,g8
+fl19,Rome,2/24/2024 10:42:54 PM,Takeoff,g1
+fl20,Santiago,2/24/2024 10:42:54 PM,Takeoff,g2
+fl16,Oslo,2/24/2024 10:42:54 PM,Takeoff,g4
+fl17,Zurich,2/24/2024 10:42:55 PM,Takeoff,g3
+fl18,Berlin,2/24/2024 10:42:55 PM,Takeoff,g1
+fl13,Cape Town,2/24/2024 10:42:55 PM,Takeoff,g9
+fl12,Barcelona,2/24/2024 10:42:55 PM,Takeoff,g5
